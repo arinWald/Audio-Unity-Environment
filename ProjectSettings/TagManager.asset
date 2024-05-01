@@ -7,6 +7,9 @@ TagManager:
   - Wood Surface
   - Stone Surface
   - Interior
+  - Trigger Calm
+  - Trigger Tension
+  - Trigger Other
   layers:
   - Default
   - TransparentFX
